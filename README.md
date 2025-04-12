@@ -7,7 +7,7 @@ An ImGui and OpenGL based visualizer which takes in a simple expression and gene
 ## Installation
 Clone the repository :
 ```bash
-placeholder
+https://github.com/PoorYoungEagle/Fractal-Visualizer.git
 ```
 Inside the folder, go to FractalVisualizer and then double-click/run the FractalVisualizer.exe file
 
